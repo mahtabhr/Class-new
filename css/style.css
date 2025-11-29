@@ -129,6 +129,85 @@ content: "";
 .aboutCard{
     margin-top: 60px;
 }
+.aboutPoint{
+    padding-top: 140px;
+}
+.aboutPoint h3{
+    font-size: 27px;
+    font-weight: 600;
+    color: #fff;
+    font-family: "Oswald", sans-serif;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+.aboutPoint h5{
+    padding-top: 10px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+    font-family:"Barlow Condensed", sans-serif;
+    
+}
+.aboutPoint i{
+    color: #FF4655;
+    margin-right: 5px;
+}
+.aboutPoint p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    font-family: "Oswald", sans-serif;
+    line-height: 24px;
+    /* padding-right: 109px; */
+    padding-bottom: 50px;
+    padding-top: 20px;
+    
+}
+.aboutPoint a{
+     padding: 13px 25px;
+    background-color: #212121;
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: "Oswald", sans-serif;
+    margin-bottom: 300px;
+    
+}
+.aboutPoint a i {
+    color: #fff;
+}
+.counterItem{
+    background: #212121;
+    padding: 26px 50px;
+    text-align: center;
+    color:#fff;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    
+   
+}
+
+
+
+.counterItem h3{
+    font-size: 45px;
+    font-weight: 600;
+    font-family: "Oswald", sans-serif;
+    padding-bottom: 10px;
+    
+
+}
+.counterItem h3 i{
+    color: #FF4655;
+    font-size: 12px;
+
+}
+.counterItem p{
+    font-size: 18px;
+    font-weight: 300;
+    font-family: "Oswald", sans-serif;
+
+}
 /* About Part End  */
 /* Banner Part Start  */
 /* Banner Part End  */
